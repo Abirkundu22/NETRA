@@ -6,7 +6,7 @@ This device not only improves mobility but also instills confidence and independ
 <table>
   <tr>
     <td>
-        <img src="pic3.jpg" alt="" width="200" height="300">
+        <img src="pic3.jpg" alt="" width="400" height="500">
     </td>
   </tr>
 </table>
