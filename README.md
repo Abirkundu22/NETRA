@@ -7,10 +7,10 @@ This device not only improves mobility but also instills confidence and independ
   <tr>
     <td>
         <img src="pic3.jpg" alt="" width="200" height="300">
-        
     </td>
   </tr>
 </table>
+
 <h4>Some images of our model:</h4>
 <table>
   <tr>
