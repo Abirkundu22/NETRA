@@ -20,3 +20,7 @@ This device not only improves mobility but also instills confidence and independ
     </td>
   </tr>
 </table>
+
+References: https://www.researchgate.net/publication/344507436_Ultrasonic_Sensor_based_Smart_Cap_as_Electr-onic_Travel_Aid_for_Blind_People
+
+
